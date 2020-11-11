@@ -1,0 +1,9 @@
+.carousel-inner {
+    height:auto;
+}
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+     width: 100%;
+     margin: auto;
+     min-height:initial;
+}
